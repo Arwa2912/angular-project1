@@ -1,0 +1,29 @@
+p{
+padding-left: 100px;
+text-decoration: none;
+display: block; 
+text-overflow:clip;
+padding-right: 30px;
+}
+
+.sidebar {
+    padding-left: 20px;
+border: 1px solid red;
+background-color: #eee;
+height: 280px;
+width: 300px;
+}
+    
+h2{
+color: red;
+}
+h5{
+color: red;
+}
+
+#left{
+    width: 5%;
+}
+#right{
+    width: 95%;
+}  
